@@ -1,0 +1,84 @@
+
+
+body{font-family: sans-serif;}
+
+#footer{width: 100%; margin:auto;}
+
+#top{width: 100%; height: 200px; background-color: #eaeae4a8;}
+
+#center{width: 100%; height: 350px; background-color: #eaeae4a8; margin-top: 5px;}
+
+/* header name = Hệ thống cửa hàng */
+#header{width: 100%; height: 50px; padding-left: 100px; font-size: 17px; float: left;}
+
+/* Hà Đông */
+#hadong{width: 29.80%; height: 140px; border-right: solid black 2px;float: left;}
+
+/* Long Biên */
+#longbien{width: 29.80%; height: 140px; border-right: solid black 2px ;float: left;}
+
+/* Mỹ Đình */
+#mydinh{width: 40%; height: 140px; float: left;}
+
+.addresscity1{padding-left: 100px; font-weight: bold; font-size: 13px;}
+
+.addresscity{padding-left: 20px; font-weight: bold; font-size: 13px;}
+
+.contentad{font-size: 13px; padding-left: 100px;}
+
+.contentad1{font-size: 13px; padding-left: 20px;}
+
+/* Thông tin */
+#information{width: 15%; height: 300px; float: left;}
+.headerinformation{padding-left: 100px; font-weight: bold;}
+
+/* Chính sách */
+#policy{width: 15%; height: 300px; float: left;}
+.headerpolicy{padding-left: 20px;}
+
+/* Tổng đài bán hàng */
+#hotline{width: 30%; height: 300px; float: left;}
+#telephone{width:30px; height: 30px; padding-left: 20px; float: left;}
+#sdt{color: red; font-size: 25px; margin-left: 80px;}
+.telephone2{width:15px; height: 15px; padding-left: 20px; float: left; margin-top: -10px;}
+.sdt2{margin: -1px 0px 0px 50px; color: silver; margin-top: -10px;}
+
+/* Kết nối với chúng tôi */
+#connect{width: 20%; height: 300px; float: left;}
+.picture{width: 30px; height: 30px;}
+#connect ul{list-style-type: none; margin-left: -30px;}
+#connect ul li{display: inline-table; width: 50px;}
+#connect ul li a{display: block;}
+#notification{width: 150px; height: 50px; margin-top: 50px; padding-left: 20px;}
+
+/* Connect bank */
+#connectbank{width: 20%; height: 300px; float: left;}
+.bank{width: 40px; height: 40px;}
+#connectbank ul{margin-top:160px; list-style-type: none;}
+#connectbank ul li{display: inline-table;}
+
+/* Header tổng */
+.totalheader{padding-left: 20px; font-weight: bold}
+
+/* Menu information */
+#information ul{margin-left: 60px; list-style-type: none; font-size: 14px;}
+#information ul li{height: 35px;}
+#information ul li a{text-decoration: none; display: block; color: black;}
+#information ul li a:hover{color: blue}
+
+/* Menu policy */
+#policy ul{list-style-type: none; font-size: 14px; margin-left: -20px;}
+#policy ul li{height: 35px;}
+#policy ul li a{text-decoration: none; display: block; color: black;}
+#policy ul li a:hover{color: blue}
+
+/* các dịch vụ */
+#totalheader ul{list-style-type: none; font-size: 14px; margin-left: 10px;}
+#totalheader ul li{display: inline-table; width: 160px; text-align: center; border-right: solid black 2px;}
+#totalheader ul li a{text-decoration: none; display: block; color:black; font-weight: bold;}
+#totalheader ul li a:hover{color:red;}
+
+#bottom{width: 100%; height: 50px; border-bottom: solid rgb(221, 217, 217) 1px; padding-left: 550px;}
+#introduce{float: left; color: rgb(212, 212, 206);}
+#license{float: left; text-decoration: none; line-height: 50px; font-weight: bold; color: red;}
+
